@@ -1,0 +1,4 @@
+curricula
+=========
+
+Curriculum viewer
